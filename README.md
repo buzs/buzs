@@ -2,7 +2,7 @@
 
 ### Hi, I'm Gabriel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻 Full-stack Developer and UX|UI Student 🏡 Brasileiro 🌎 Rio de Janeiro ✈️ Brasil
+💻 Full-stack Developer and UX|UI Student 🏡 Brazilian 🌎 Rio de Janeiro ✈️ Brazil
 
 ## Technologies
 
