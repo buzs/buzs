@@ -17,6 +17,7 @@
 <div text-align="justify">
   <img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1FC41A" />
   <img src="https://img.shields.io/badge/ReactJs-2CFFEE?style=for-the-badge&logo=react&logoColor=000&labelColor=2CFFEE" />
+  <img src="https://img.shields.io/badge/Angular-FF4444?style=for-the-badge&logo=angular&logoColor=fff&labelColor=FF4444" />
   <img src="https://img.shields.io/badge/Svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=000&labelColor=ff3e00" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF&labelColor=2496ED" />
   <img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=5C290E&labelColor=91FF49" />
