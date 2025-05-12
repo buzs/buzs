@@ -1,10 +1,12 @@
-## Gabriel Henrique (buzs)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/buzs/buzs/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buzs/buzs/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/buzs/buzs/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻 Full-stack Developer and UX | UI Design 🏡 Brazilian 🌎 Rio de Janeiro ✈️ Brazil
-
-## Technologies
 
 <div text-align="justify">
   <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
