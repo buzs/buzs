@@ -16,7 +16,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true&rank_icon=github
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&rank_icon=github&theme=transparent
           path: profile/stats.svg
           token: ${{ secrets.GH_TK }}
       
