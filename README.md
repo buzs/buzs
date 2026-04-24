@@ -31,4 +31,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-contato@gabrielhenrique.net-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato@gabrielhenrique.net)](mailto:contato@gabrielhenrique.net)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buzs&layout=compact&theme=nord&langs_count=8&hide=sqf)
+![Top Langs](../profile/top-langs.svg)
