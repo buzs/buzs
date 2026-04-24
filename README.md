@@ -31,4 +31,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-contato@gabrielhenrique.net-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato@gabrielhenrique.net)](mailto:contato@gabrielhenrique.net)
 
 
-![Top Langs](../profile/top-langs.svg)
+![Top Langs](./profile/top-langs.svg)
