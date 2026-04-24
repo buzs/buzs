@@ -90,7 +90,7 @@ I care a lot about **developer experience**, **product usability**, **scalable a
 ### Also around here
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,elysia,angular,mongodb,mysql,html,css,sass,vite,figma,vercel,cloudflare,githubactions" />
+  <img src="https://skillicons.dev/icons?i=go,python,lua,elysia,angular,mongodb,mysql,html,css,sass,vite,figma,vercel,cloudflare,githubactions,java,blender,rust,php,wordpress,jquery" />
 </p>
 
 ---
