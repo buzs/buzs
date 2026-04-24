@@ -28,7 +28,7 @@
 ### How to reach me 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Henrique-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielhenriquenet/)](https://www.linkedin.com/in/gabrielhenriquenet/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@gabrielhenrique.net-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato@gabrielhenrique.net)](mailto:contato@gabrielhenrique.net)
+[![Gmail Badge](https://img.shields.io/badge/-me@buzs.dev-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:me@buzs.dev)](mailto:me@buzs.dev)
 
 
 ![Top Langs](./profile/top-langs.svg)
