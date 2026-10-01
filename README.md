@@ -1,17 +1,10 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buzs/buzs/output-3d-contrib/night.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buzs/buzs/output-3d-contrib/day.svg" />
-    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/buzs/buzs/output-3d-contrib/day.svg" />
-  </picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Gabriel%20Henrique%20%C2%B7%20Buzs&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Gabriel Henrique · Buzs" />
 </p>
-
-<h1 align="center">Gabriel Henrique · Buzs ⚗️</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · UX-minded builder · Homelab enjoyer · Creator tools architect</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7EE0C3&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;UX-minded+builder;Homelab+enjoyer;Creator+tools+architect" alt="Typing SVG" />
 </p>
-
 <p align="center">
   I build products, automations and infrastructure for creators, communities, payments, streaming and weird-but-useful ideas that somehow become real software.
 </p>
@@ -105,29 +98,25 @@ I care a lot about **developer experience**, **product usability**, **scalable a
 
 ---
 
-## 📊 GitHub stats
+## 📊 Stats & Contributions
 
 <p align="center">
-  <img height="170" src="./profile/stats.svg" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=buzs&theme=transparent&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buzs/buzs/output-3d-contrib/night.svg" />
+    <img alt="contributions" src="https://raw.githubusercontent.com/buzs/buzs/output-3d-contrib/day.svg" width="75%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=buzs&theme=transparent&hide_border=true" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
 
 ## 🌎 Where to find me
-<p align="center">
-  <a href="https://buzs.dev">
-    <img src="https://img.shields.io/badge/Portfolio-buzs.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielhenriquenet/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:me@buzs.dev">
-    <img src="https://img.shields.io/badge/Email-me%40buzs.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+Portfolio, LinkedIn and email are right at the top 👆
+
 <p align="center"> <em>Building tools, breaking things, fixing them better, and probably running something in Docker at 3AM.</em> </p>
